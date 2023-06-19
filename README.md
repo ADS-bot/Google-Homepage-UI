@@ -4,39 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Google Homepage Clone UI</title>
-
-  <style>
-    /* CSS Styles */
-    #google-homepage-clone {
-      font-family: Arial, sans-serif;
-    }
-
-    #google-homepage-clone h1 {
-      font-size: 24px;
-      font-weight: bold;
-    }
-
-    #google-homepage-clone p {
-      font-size: 16px;
-    }
-
-    #google-homepage-clone .project-details {
-      margin-bottom: 20px;
-    }
-
-    #google-homepage-clone .project-details p {
-      margin: 10px 0;
-    }
-
-    #google-homepage-clone .project-details ul {
-      padding-left: 20px;
-    }
-
-    #google-homepage-clone .project-details li {
-      margin-bottom: 5px;
-    }
-  </style>
+  
 </head>
 
 <body>
